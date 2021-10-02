@@ -17,6 +17,7 @@ Avocadobrot mit Ei
  - 0.5 Ei
  - 1 Scheibe Bacon
  - Schnittlauch
- - Salz und Pfeffer
+ - Salz
+ - Pfeffer
 
 Shakshuka
