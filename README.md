@@ -1,2 +1,2 @@
 # Kochrezepte
-Git Übung &amp; Kochrezepte
+Git Übung und Kochrezepte
