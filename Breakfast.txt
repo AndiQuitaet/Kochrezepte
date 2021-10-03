@@ -10,6 +10,10 @@ Mangolassi
  - 150ml Milch
 
 Pfannenkuchen
+ - 200g Mehl
+ - 200ml Milch
+ - 2 Eier
+ - Prise Salz
 
 Avocadobrot mit Ei
  - 1 Brot
@@ -21,3 +25,9 @@ Avocadobrot mit Ei
  - Pfeffer
 
 Shakshuka
+ - 200g Tomaten-Sugo
+ - 2 Eier
+ - 1/4 Bund Petersile
+ - 1/4 Bund Minze
+ - Salz
+ - Pfeffer
