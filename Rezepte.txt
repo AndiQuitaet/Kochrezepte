@@ -54,8 +54,16 @@
           2 Dinner
 ++++++++++++++++++++++++++++++
 
+2.1 Bolognese
+ - 500g Hackfleisch
+ - 1 Zwiebel
+ - 1 Karotte
+ - genausoviel Sellerie
+ - 3 EL Tomatenmark
+ - 2 Zehen Knoblauch
+
 2.2 Kartoffelsuppe
  - 200g Kartoffeln
- - 500ml Brühe
-
+ - 1000ml Brühe
+ 
 2.3 Zuchini-Tomaten Tarte
