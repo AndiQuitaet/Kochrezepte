@@ -1,5 +1,5 @@
 +++++++++++++++++++++++++++++++++++++++++++
-+            Andis Rezepte                +
+             Andis Rezepte                
 +++++++++++++++++++++++++++++++++++++++++++
 
 
@@ -55,5 +55,14 @@
 ++++++++++++++++++++++++++++++
 
 2.1 Spaghetti Bolognese
+ - 500g Hackfleisch
+ - 50g Bacon
+ - 3 EL Tomatenmark
+ - 1 Karotte
+ - gleiche Menge Sellerie
+ - 1 Zwiebel
+ - 1 Glas Rotwein
+ - 2 Glas Brühe
+
 2.2 Kartoffelsuppe
 2.3 Zuchini-Tomaten Tarte
