@@ -1,21 +1,25 @@
-Frühstücksquark
+------------------------------
+1 Frühstück
+------------------------------
+
+1.1 Frühstücksquark
  - 200g Quark
  - 50ml Milch
  - 1 TL Zucker
  - Früchte
 
-Mangolassi
+1.2 Mangolassi
  - 1 Mango
  - 100g Jogurth
  - 150ml Milch
 
-Pfannenkuchen
+1.3 Pfannenkuchen
  - 200g Mehl
  - 200ml Milch
  - 2 Eier
  - Prise Salz
 
-Avocadobrot mit Ei
+1.4 Avocadobrot mit Ei
  - 1 Brot
  - 0.25 Avokado
  - 0.5 Ei
@@ -24,10 +28,18 @@ Avocadobrot mit Ei
  - Salz
  - Pfeffer
 
-Shakshuka
+1.5 Shakshuka
  - 200g Tomaten-Sugo
  - 2 Eier
  - 1/4 Bund Petersile
  - 1/4 Bund Minze
  - Salz
  - Pfeffer
+
+------------------------------
+2 Dinner
+------------------------------
+
+2.1 Spaghetti Bolognese
+2.2 Kartoffelsuppe
+2.3 Zuchini-Tomaten Tarte
