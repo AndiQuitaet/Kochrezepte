@@ -49,6 +49,7 @@
  - 2 TL Zucker
  - Zitronenabrieb
 
+Platzhalter
 
 ++++++++++++++++++++++++++++++
           2 Dinner
@@ -67,3 +68,7 @@
  - 1000ml Brühe
  
 2.3 Zuchini-Tomaten Tarte
+ - 200g Tomate
+ - 200g Zuchini
+ - 100ml Olivenöl
+ - Kräuter der Provence
